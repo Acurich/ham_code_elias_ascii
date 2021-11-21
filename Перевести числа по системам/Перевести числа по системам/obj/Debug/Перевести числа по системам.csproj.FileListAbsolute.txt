@@ -1,0 +1,12 @@
+C:\Users\RegreTTO\source\repos\Перевести числа по системам\Перевести числа по системам\bin\Debug\Перевести числа по системам.exe.config
+C:\Users\RegreTTO\source\repos\Перевести числа по системам\Перевести числа по системам\bin\Debug\Перевести числа по системам.exe
+C:\Users\RegreTTO\source\repos\Перевести числа по системам\Перевести числа по системам\bin\Debug\Перевести числа по системам.pdb
+C:\Users\RegreTTO\source\repos\Перевести числа по системам\Перевести числа по системам\obj\Debug\Перевести числа по системам.csprojAssemblyReference.cache
+C:\Users\RegreTTO\source\repos\Перевести числа по системам\Перевести числа по системам\obj\Debug\Перевести числа по системам.exe
+C:\Users\RegreTTO\source\repos\Перевести числа по системам\Перевести числа по системам\obj\Debug\Перевести числа по системам.pdb
+D:\Visual Projects\Перевести числа по системам\Перевести числа по системам\bin\Debug\Перевести числа по системам.exe.config
+D:\Visual Projects\Перевести числа по системам\Перевести числа по системам\bin\Debug\Перевести числа по системам.exe
+D:\Visual Projects\Перевести числа по системам\Перевести числа по системам\bin\Debug\Перевести числа по системам.pdb
+D:\Visual Projects\Перевести числа по системам\Перевести числа по системам\obj\Debug\Перевести числа по системам.csprojAssemblyReference.cache
+D:\Visual Projects\Перевести числа по системам\Перевести числа по системам\obj\Debug\Перевести числа по системам.exe
+D:\Visual Projects\Перевести числа по системам\Перевести числа по системам\obj\Debug\Перевести числа по системам.pdb

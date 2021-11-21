@@ -1,0 +1,6 @@
+D:\Visual Projects\Сибирский алгоритм\Сибирский алгоритм\bin\Debug\Сибирский алгоритм.exe.config
+D:\Visual Projects\Сибирский алгоритм\Сибирский алгоритм\bin\Debug\Сибирский алгоритм.exe
+D:\Visual Projects\Сибирский алгоритм\Сибирский алгоритм\bin\Debug\Сибирский алгоритм.pdb
+D:\Visual Projects\Сибирский алгоритм\Сибирский алгоритм\obj\Debug\Сибирский алгоритм.csprojAssemblyReference.cache
+D:\Visual Projects\Сибирский алгоритм\Сибирский алгоритм\obj\Debug\Сибирский алгоритм.exe
+D:\Visual Projects\Сибирский алгоритм\Сибирский алгоритм\obj\Debug\Сибирский алгоритм.pdb

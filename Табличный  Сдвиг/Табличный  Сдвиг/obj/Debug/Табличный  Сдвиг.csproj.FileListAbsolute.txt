@@ -1,0 +1,6 @@
+D:\Visual Projects\Табличный  Сдвиг\Табличный  Сдвиг\bin\Debug\Табличный  Сдвиг.exe.config
+D:\Visual Projects\Табличный  Сдвиг\Табличный  Сдвиг\bin\Debug\Табличный  Сдвиг.exe
+D:\Visual Projects\Табличный  Сдвиг\Табличный  Сдвиг\bin\Debug\Табличный  Сдвиг.pdb
+D:\Visual Projects\Табличный  Сдвиг\Табличный  Сдвиг\obj\Debug\Табличный  Сдвиг.csprojAssemblyReference.cache
+D:\Visual Projects\Табличный  Сдвиг\Табличный  Сдвиг\obj\Debug\Табличный  Сдвиг.exe
+D:\Visual Projects\Табличный  Сдвиг\Табличный  Сдвиг\obj\Debug\Табличный  Сдвиг.pdb

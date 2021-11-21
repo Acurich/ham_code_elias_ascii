@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Табличный  Сдвиг", "Табличный  Сдвиг\Табличный  Сдвиг.csproj", "{A836D703-04A6-4344-84FB-983A48AB8697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A836D703-04A6-4344-84FB-983A48AB8697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A836D703-04A6-4344-84FB-983A48AB8697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A836D703-04A6-4344-84FB-983A48AB8697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A836D703-04A6-4344-84FB-983A48AB8697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {619B8342-94D0-49E4-9CDD-8F0F21771D53}
+	EndGlobalSection
+EndGlobal

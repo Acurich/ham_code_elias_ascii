@@ -1,0 +1,6 @@
+D:\Visual Projects\Хемминг\Хемминг\bin\Debug\Хемминг.exe.config
+D:\Visual Projects\Хемминг\Хемминг\bin\Debug\Хемминг.exe
+D:\Visual Projects\Хемминг\Хемминг\bin\Debug\Хемминг.pdb
+D:\Visual Projects\Хемминг\Хемминг\obj\Debug\Хемминг.csprojAssemblyReference.cache
+D:\Visual Projects\Хемминг\Хемминг\obj\Debug\Хемминг.exe
+D:\Visual Projects\Хемминг\Хемминг\obj\Debug\Хемминг.pdb
